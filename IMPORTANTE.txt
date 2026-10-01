@@ -1,0 +1,1 @@
+Nota: Para rodar este projeto, baixe todos os arquivos .tsx e .ts da aba "Code" no Flow e coloque-os neste diretório mantendo a estrutura de pastas.
